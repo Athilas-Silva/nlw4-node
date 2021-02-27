@@ -6,5 +6,6 @@
 
  Composto por:
 
- - Cadastro de usuario
- - Cadastro de perguntas
+ - Cadastro de usuário e de perguntas
+
+API desenvolvida com o auxílio da professora Daniele Leao Evangelista
