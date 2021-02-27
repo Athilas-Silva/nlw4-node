@@ -8,4 +8,4 @@
 
  - Cadastro de usuário e de perguntas
 
-API desenvolvida com o auxílio da professora Daniele Leao Evangelista
+API desenvolvida com o auxílio da professora [Daniele Leão Evangelista](https://github.com/danileao) da [Rocketseat](https://github.com/Rocketseat)
