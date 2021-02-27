@@ -117,3 +117,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Data Base sqlite
+src/database/database.sqlite
+src/database/database.test.sqlite
